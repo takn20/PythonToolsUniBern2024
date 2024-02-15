@@ -1,0 +1,10 @@
+name: uniBernTools
+channels:
+  - conda-forge
+dependencies:
+  - python = 3.9
+  - numpy
+  - jupyterlab
+  - ipykernel
+  - pip:
+    - microfilm
